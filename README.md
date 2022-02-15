@@ -1,3 +1,3 @@
 # dll-blog-db
-db.jspn file for dll-blog repo
+db.json file for dll-blog repo
 
